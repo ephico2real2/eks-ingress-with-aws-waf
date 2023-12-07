@@ -1,4 +1,4 @@
-### Title: Collaborative Implementation of AWS EKS Ingress Controller with AWS WAF
+### Title: Collaborative Implementation of EKS Ingress Controller with AWS WAF
 
 ---
 
